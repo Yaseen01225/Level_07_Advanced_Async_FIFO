@@ -1,1 +1,1 @@
-Adds domain-local saturating rejected-operation counters to the Level 6 FIFO. The counters are intentionally not combined across clock domains; combining multi-bit counters safely requires an explicit CDC/reporting design.
+Adds domain-local saturating rejected-operation counters to the Level 7 FIFO. The counters are intentionally not combined across clock domains; combining multi-bit counters safely requires an explicit CDC/reporting design.
